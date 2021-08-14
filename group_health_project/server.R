@@ -75,8 +75,11 @@ server <- function(input, output) {
       #Green space Geospatial Graph
       output$greenspacemap <- renderPlot({
         greenspace_la_geo %>%
+          filter(
+            distance_to_nearest_green_or_blue_space == "A 5 minute walk or less") %>% 
           ggplot() +
           geom_sf(aes(fill = mean_percent), colour = "black") +
+          scale_fill_brewer(palette = "YlGn") +
           theme_economist() +
           theme(axis.text.x = element_text(face = "bold", size = 10),
                 axis.text.y = element_text(face = "bold", size = 10),

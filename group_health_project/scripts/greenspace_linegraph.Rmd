@@ -1,0 +1,29 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+```{r}
+library(tidyverse)
+library(here)
+greenspace <- read_csv(here("Desktop/codeclan/health_project/health_app/data/clean_data/greenspace_council_names.csv"))
+```
+
+
+
+```{r}
+greenspace %>%
+  filter(distance_to_nearest_green_or_blue_space == "A 5 minute walk or less",
+         age == "All",
+         gender == "All",
+         urban_rural_classification == "All",
+         simd_quintiles == "All",
+         type_of_tenure == "All",
+         household_type == "All",
+         ethnicity == "All") %>%
+ggplot() +
+  aes(x = date_code, y = value_percent, colour = ca_name) +
+  geom_line() +
+  geom_point()
+```
+  
+  

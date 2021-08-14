@@ -1,0 +1,241 @@
+---
+title: "data cleaning for overview"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(here)
+```
+
+# reading in area code and name detail
+```{r}
+ area_names <- read_csv("../data/clean_data/council codes.csv") %>% 
+    clean_names() %>% 
+    rename(area_code = ca)
+```
+# Scottish Health Survey Overview
+
+```{r}
+  scotland_health_survey <- read_csv(here("data/raw_data/scotland_health_survey.csv")) %>%
+  clean_names()
+```
+
+```{r}
+scotland_health_survey_clean <- scotland_health_survey %>% 
+  filter(scottish_health_survey_indicator %in% c("Any cardiovascular condition: Has a cardiovascular condition", "Any cardiovascular condition: No cardiovascular condition", "Life satisfaction: Above the mode (9 to 10-Extremely satisfied)", "Life satisfaction: Below the mode (0-Extremely dissatisfied to 7)", "Life satisfaction: Mode (8)", "Obesity: Not obese", "Obesity: Obese", "Overweight: Not overweight or obese", "Overweight: Overweight (including obese)", "Overweight: Overweight (including obese)", "Summary activity levels: Low activity", "Summary activity levels: Meets recommendations", "Summary activity levels: Some activity", "Summary activity levels: Very low activity"),
+         measurement == "Percent")
+
+
+scotland_health_survey_clean <- scotland_health_survey_clean %>% 
+  rename(year = date_code, 
+         percentage = value,
+         area_code = feature_code) %>% 
+  select(area_code, year, scottish_health_survey_indicator, sex, percentage) %>% 
+  arrange(year, scottish_health_survey_indicator, sex)
+
+```
+
+```{r}
+write_csv(scotland_health_survey_clean, here("data/clean_data/scotland_health_survey_clean.csv"))
+```
+
+
+
+
+
+# Greenspace cleaning
+
+```{r}
+greenspace_clean <- read_csv(here("data/raw_data/greenspace.csv")) %>%
+  clean_names() %>%
+  filter(measurement == "Percent") %>%
+  rename("value_percent" = "value", 
+         "area_code" = "feature_code") %>%
+  select(-"measurement", -"units") %>%
+   filter(!str_detect(area_code, pattern = "S08")) %>% 
+        replace_na(list(ca_name =  "Scotland"))
+  
+```
+
+
+# Healthy life expectancy
+
+```{r}
+healthy_life_expectancy_clean <- read_csv(here("data/raw_data/healthy_life_expectancy.csv")) %>%
+  clean_names() %>%
+  filter(measurement == "Count",
+         date_code == "2016-2018") %>%
+  rename("years_of_quality_life" = "value",
+         "area_code" = "feature_code") %>%
+  select(-"measurement", -"units")  %>%
+  filter(!str_detect(area_code, pattern = "S08")) %>% 
+        replace_na(list(ca_name =  "Scotland"))
+  
+```
+
+
+# Life expectancy
+```{r}
+life_expectancy_clean <- read_csv(here("data/raw_data/life_expectancy.csv")) %>%
+  clean_names() %>%
+  filter(measurement == "Count") %>%
+  rename("years_to_live" = "value",
+         "area_code" = "feature_code") %>%
+  select(-"measurement", -"units")  %>%
+  filter(!str_detect(area_code, pattern = "S08")) %>% 
+        replace_na(list(ca_name =  "Scotland"))
+  
+```
+
+
+# council names
+```{r}
+ greenspace_council_names <- area_names %>% 
+  select(area_code, ca_name) %>% 
+  distinct() %>% 
+  right_join(greenspace_clean, by = "area_code")
+ 
+ write_csv(greenspace_council_names, here("data/clean_data/greenspace_council_names.csv"))
+```
+
+
+# writing life expectancy file
+```{r}
+write_csv(life_expectancy_clean, here("data/clean_data/life_expectancy_clean.csv"))
+write_csv(healthy_life_expectancy_clean, here("data/clean_data/healthy_life_expectancy_clean.csv"))
+```
+
+
+
+
+
+```{r}
+council_codes <- area_names %>%
+  select(area_code, hb_name)
+
+health_board_codes <- area_names %>% 
+  select(hb, hb_name) %>% 
+  rename(area_code = hb)
+
+health_board_names <- bind_rows(council_codes, health_board_codes) %>% 
+  distinct()
+
+```
+
+```{r}
+write_csv(health_board_names, here("data/clean_data/health_board_names.csv"))
+```
+
+
+# Scottish Health Survey by Local Area
+```{r}
+scotland_health_survey_local <- read_csv(here("data/raw_data/scotland health survey local level.csv")) %>% 
+  clean_names()
+```
+
+
+
+```{r}
+
+scotland_health_survey_local <- scotland_health_survey_local %>% 
+  rename(area_code = feature_code)
+
+  scotland_health_survey_local <- area_names %>% 
+    select(area_code, ca_name) %>% 
+    distinct() %>% 
+    right_join(scotland_health_survey_local, by = "area_code") 
+  
+
+scotland_health_survey_local_clean <-  scotland_health_survey_local %>% 
+ filter(scottish_health_survey_indicator %in% c("Any cardiovascular condition: Has a cardiovascular condition", "Any cardiovascular condition: No cardiovascular condition", "Life satisfaction: Above the mode (9 to 10-Extremely satisfied)", "Life satisfaction: Below the mode (0-Extremely dissatisfied to 7)", "Life satisfaction: Mode (8)", "Obesity: Not obese", "Obesity: Obese", "Overweight: Not overweight or obese", "Overweight: Overweight (including obese)", "Overweight: Overweight (including obese)", "Summary activity levels: Low activity", "Summary activity levels: Meets recommendations", "Summary activity levels: Some activity", "Summary activity levels: Very low activity"),
+         measurement == "Percent",
+        date_code == "2016-2019") %>% 
+        filter(!str_detect(area_code, pattern = "S08")) %>% 
+        replace_na(list(ca_name =  "Scotland"))
+
+
+scotland_health_survey_local_clean <- scotland_health_survey_local_clean %>% 
+  rename(year = date_code, 
+         percentage = value) %>% 
+  select(area_code, ca_name, year, scottish_health_survey_indicator, sex, percentage) %>% 
+  arrange(area_code, year, scottish_health_survey_indicator, sex)
+
+write_csv(scotland_health_survey_local_clean, here("data/clean_data/scotland_health_survey_local_clean.csv"))
+```
+
+
+# Summary Stats - Scottish Health Survey by Local Area
+```{r}
+raw_scotland_health_survey_local <- read_csv(here("data/raw_data/scotland health survey local level.csv")) %>% 
+  clean_names()
+```
+
+```{r}
+summary_stat_scotland_health_2016_2019 <- raw_scotland_health_survey_local %>% 
+  filter(
+    date_code == "2016-2019",
+    str_detect(feature_code, "^S92"),
+    scottish_health_survey_indicator %in% c(
+      "Any cardiovascular condition: Has a cardiovascular condition",
+      "Any cardiovascular condition: No cardiovascular condition",
+      "Life satisfaction: Above the mode (9 to 10-Extremely satisfied)",
+      "Life satisfaction: Below the mode (0-Extremely dissatisfied to 7)",
+      "Life satisfaction: Mode (8)", "Obesity: Not obese", "Obesity: Obese",
+      "Overweight: Not overweight or obese", "Overweight: Overweight (including obese)",
+      "Overweight: Overweight (including obese)", "Summary activity levels: Low activity",
+      "Summary activity levels: Meets recommendations", "Summary activity levels: Some activity",
+      "Summary activity levels: Very low activity"),
+    measurement == "Percent" | 
+    measurement == "95% Lower Confidence Limit" | 
+    measurement == "95% Upper Confidence Limit") %>% 
+pivot_wider(names_from = measurement, values_from = value)
+  
+summary_stat_scotland_health_2016_2019 <- summary_stat_scotland_health_2016_2019 %>% 
+  rename(year = date_code) %>% 
+  select(scottish_health_survey_indicator, sex, "Percent", "95% Lower Confidence Limit", "95% Upper Confidence Limit")
+
+write_csv(summary_stat_scotland_health_2016_2019, here("data/clean_data/summary_stat_scotland_health_2016_2019.csv"))
+```
+
+table for greenspace tab
+```{r}
+
+filtered_scotland_health_survey_local_clean <- scotland_health_survey_local_clean %>% 
+  filter(str_detect(area_code, "^S120"),
+         sex == "All",
+         scottish_health_survey_indicator %in% c("Any cardiovascular condition: Has a cardiovascular condition", "Life satisfaction: Below the mode (0-Extremely dissatisfied to 7)", "Obesity: Obese", "Overweight: Overweight (including obese)", "Summary activity levels: Low activity", "Summary activity levels: Very low activity"))
+
+filtered_greenspace <- greenspace_council_names %>%
+  filter(
+    str_detect(area_code, "^S120"),
+    date_code >= 2016,
+    distance_to_nearest_green_or_blue_space == "A 5 minute walk or less",
+    age == "All",
+    gender == "All",
+    urban_rural_classification == "All",
+    simd_quintiles == "All",
+    type_of_tenure == "All",
+    household_type == "All",
+    ethnicity == "All") %>% 
+  group_by(
+    area_code, ca_name, age
+  ) %>% 
+  summarise(mean_percent = mean(value_percent)) %>% 
+  ungroup()
+
+```
+add data together for datatable
+
+```{r}
+local_greenspace <- filtered_scotland_health_survey_local_clean %>% 
+  rename(indicator_percentage = percentage) %>% 
+  left_join(filtered_greenspace, by = "area_code") %>% 
+  select(-ca_name.x) %>% 
+  rename(ca_name = ca_name.y) %>% 
+  select(ca_name, scottish_health_survey_indicator, indicator_percentage, mean_percent)
+
+write_csv(local_greenspace, here("data/clean_data/local_greenspace.csv"))
+```
+

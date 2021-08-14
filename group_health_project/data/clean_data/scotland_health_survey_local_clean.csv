@@ -1,0 +1,508 @@
+area_code,ca_name,year,scottish_health_survey_indicator,sex,percentage
+S12000006,Dumfries and Galloway,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,All,16
+S12000006,Dumfries and Galloway,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Female,10
+S12000006,Dumfries and Galloway,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Male,21
+S12000006,Dumfries and Galloway,2016-2019,Any cardiovascular condition: No cardiovascular condition,All,84
+S12000006,Dumfries and Galloway,2016-2019,Any cardiovascular condition: No cardiovascular condition,Female,90
+S12000006,Dumfries and Galloway,2016-2019,Any cardiovascular condition: No cardiovascular condition,Male,79
+S12000006,Dumfries and Galloway,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,41
+S12000006,Dumfries and Galloway,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,43
+S12000006,Dumfries and Galloway,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,40
+S12000006,Dumfries and Galloway,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,33
+S12000006,Dumfries and Galloway,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,32
+S12000006,Dumfries and Galloway,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,34
+S12000006,Dumfries and Galloway,2016-2019,Life satisfaction: Mode (8),All,26
+S12000006,Dumfries and Galloway,2016-2019,Life satisfaction: Mode (8),Female,25
+S12000006,Dumfries and Galloway,2016-2019,Life satisfaction: Mode (8),Male,26
+S12000006,Dumfries and Galloway,2016-2019,Obesity: Not obese,All,67
+S12000006,Dumfries and Galloway,2016-2019,Obesity: Not obese,Female,68
+S12000006,Dumfries and Galloway,2016-2019,Obesity: Not obese,Male,66
+S12000006,Dumfries and Galloway,2016-2019,Obesity: Obese,All,33
+S12000006,Dumfries and Galloway,2016-2019,Obesity: Obese,Female,32
+S12000006,Dumfries and Galloway,2016-2019,Obesity: Obese,Male,34
+S12000006,Dumfries and Galloway,2016-2019,Overweight: Not overweight or obese,All,28
+S12000006,Dumfries and Galloway,2016-2019,Overweight: Not overweight or obese,Female,32
+S12000006,Dumfries and Galloway,2016-2019,Overweight: Not overweight or obese,Male,24
+S12000006,Dumfries and Galloway,2016-2019,Overweight: Overweight (including obese),All,72
+S12000006,Dumfries and Galloway,2016-2019,Overweight: Overweight (including obese),Female,68
+S12000006,Dumfries and Galloway,2016-2019,Overweight: Overweight (including obese),Male,76
+S12000006,Dumfries and Galloway,2016-2019,Summary activity levels: Low activity,All,3
+S12000006,Dumfries and Galloway,2016-2019,Summary activity levels: Low activity,Female,3
+S12000006,Dumfries and Galloway,2016-2019,Summary activity levels: Low activity,Male,2
+S12000006,Dumfries and Galloway,2016-2019,Summary activity levels: Meets recommendations,All,66
+S12000006,Dumfries and Galloway,2016-2019,Summary activity levels: Meets recommendations,Female,65
+S12000006,Dumfries and Galloway,2016-2019,Summary activity levels: Meets recommendations,Male,66
+S12000006,Dumfries and Galloway,2016-2019,Summary activity levels: Some activity,All,12
+S12000006,Dumfries and Galloway,2016-2019,Summary activity levels: Some activity,Female,12
+S12000006,Dumfries and Galloway,2016-2019,Summary activity levels: Some activity,Male,11
+S12000006,Dumfries and Galloway,2016-2019,Summary activity levels: Very low activity,All,20
+S12000006,Dumfries and Galloway,2016-2019,Summary activity levels: Very low activity,Female,20
+S12000006,Dumfries and Galloway,2016-2019,Summary activity levels: Very low activity,Male,20
+S12000013,Na h-Eileanan Siar,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,All,16
+S12000013,Na h-Eileanan Siar,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Female,16
+S12000013,Na h-Eileanan Siar,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Male,16
+S12000013,Na h-Eileanan Siar,2016-2019,Any cardiovascular condition: No cardiovascular condition,All,84
+S12000013,Na h-Eileanan Siar,2016-2019,Any cardiovascular condition: No cardiovascular condition,Female,84
+S12000013,Na h-Eileanan Siar,2016-2019,Any cardiovascular condition: No cardiovascular condition,Male,84
+S12000013,Na h-Eileanan Siar,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,44
+S12000013,Na h-Eileanan Siar,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,46
+S12000013,Na h-Eileanan Siar,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,42
+S12000013,Na h-Eileanan Siar,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,22
+S12000013,Na h-Eileanan Siar,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,22
+S12000013,Na h-Eileanan Siar,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,23
+S12000013,Na h-Eileanan Siar,2016-2019,Life satisfaction: Mode (8),All,34
+S12000013,Na h-Eileanan Siar,2016-2019,Life satisfaction: Mode (8),Female,32
+S12000013,Na h-Eileanan Siar,2016-2019,Life satisfaction: Mode (8),Male,36
+S12000013,Na h-Eileanan Siar,2016-2019,Obesity: Not obese,All,72
+S12000013,Na h-Eileanan Siar,2016-2019,Obesity: Not obese,Female,71
+S12000013,Na h-Eileanan Siar,2016-2019,Obesity: Not obese,Male,74
+S12000013,Na h-Eileanan Siar,2016-2019,Obesity: Obese,All,28
+S12000013,Na h-Eileanan Siar,2016-2019,Obesity: Obese,Female,29
+S12000013,Na h-Eileanan Siar,2016-2019,Obesity: Obese,Male,26
+S12000013,Na h-Eileanan Siar,2016-2019,Overweight: Not overweight or obese,All,29
+S12000013,Na h-Eileanan Siar,2016-2019,Overweight: Not overweight or obese,Female,30
+S12000013,Na h-Eileanan Siar,2016-2019,Overweight: Not overweight or obese,Male,27
+S12000013,Na h-Eileanan Siar,2016-2019,Overweight: Overweight (including obese),All,71
+S12000013,Na h-Eileanan Siar,2016-2019,Overweight: Overweight (including obese),Female,70
+S12000013,Na h-Eileanan Siar,2016-2019,Overweight: Overweight (including obese),Male,73
+S12000013,Na h-Eileanan Siar,2016-2019,Summary activity levels: Low activity,All,2
+S12000013,Na h-Eileanan Siar,2016-2019,Summary activity levels: Low activity,Female,2
+S12000013,Na h-Eileanan Siar,2016-2019,Summary activity levels: Low activity,Male,1
+S12000013,Na h-Eileanan Siar,2016-2019,Summary activity levels: Meets recommendations,All,67
+S12000013,Na h-Eileanan Siar,2016-2019,Summary activity levels: Meets recommendations,Female,61
+S12000013,Na h-Eileanan Siar,2016-2019,Summary activity levels: Meets recommendations,Male,73
+S12000013,Na h-Eileanan Siar,2016-2019,Summary activity levels: Some activity,All,8
+S12000013,Na h-Eileanan Siar,2016-2019,Summary activity levels: Some activity,Female,11
+S12000013,Na h-Eileanan Siar,2016-2019,Summary activity levels: Some activity,Male,5
+S12000013,Na h-Eileanan Siar,2016-2019,Summary activity levels: Very low activity,All,23
+S12000013,Na h-Eileanan Siar,2016-2019,Summary activity levels: Very low activity,Female,26
+S12000013,Na h-Eileanan Siar,2016-2019,Summary activity levels: Very low activity,Male,20
+S12000023,Orkney Islands,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,All,19
+S12000023,Orkney Islands,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Female,21
+S12000023,Orkney Islands,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Male,18
+S12000023,Orkney Islands,2016-2019,Any cardiovascular condition: No cardiovascular condition,All,81
+S12000023,Orkney Islands,2016-2019,Any cardiovascular condition: No cardiovascular condition,Female,79
+S12000023,Orkney Islands,2016-2019,Any cardiovascular condition: No cardiovascular condition,Male,82
+S12000023,Orkney Islands,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,44
+S12000023,Orkney Islands,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,43
+S12000023,Orkney Islands,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,45
+S12000023,Orkney Islands,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,24
+S12000023,Orkney Islands,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,25
+S12000023,Orkney Islands,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,24
+S12000023,Orkney Islands,2016-2019,Life satisfaction: Mode (8),All,32
+S12000023,Orkney Islands,2016-2019,Life satisfaction: Mode (8),Female,33
+S12000023,Orkney Islands,2016-2019,Life satisfaction: Mode (8),Male,31
+S12000023,Orkney Islands,2016-2019,Obesity: Not obese,All,67
+S12000023,Orkney Islands,2016-2019,Obesity: Not obese,Female,67
+S12000023,Orkney Islands,2016-2019,Obesity: Not obese,Male,67
+S12000023,Orkney Islands,2016-2019,Obesity: Obese,All,33
+S12000023,Orkney Islands,2016-2019,Obesity: Obese,Female,33
+S12000023,Orkney Islands,2016-2019,Obesity: Obese,Male,33
+S12000023,Orkney Islands,2016-2019,Overweight: Not overweight or obese,All,25
+S12000023,Orkney Islands,2016-2019,Overweight: Not overweight or obese,Female,28
+S12000023,Orkney Islands,2016-2019,Overweight: Not overweight or obese,Male,21
+S12000023,Orkney Islands,2016-2019,Overweight: Overweight (including obese),All,75
+S12000023,Orkney Islands,2016-2019,Overweight: Overweight (including obese),Female,72
+S12000023,Orkney Islands,2016-2019,Overweight: Overweight (including obese),Male,79
+S12000023,Orkney Islands,2016-2019,Summary activity levels: Low activity,All,5
+S12000023,Orkney Islands,2016-2019,Summary activity levels: Low activity,Female,7
+S12000023,Orkney Islands,2016-2019,Summary activity levels: Low activity,Male,3
+S12000023,Orkney Islands,2016-2019,Summary activity levels: Meets recommendations,All,61
+S12000023,Orkney Islands,2016-2019,Summary activity levels: Meets recommendations,Female,55
+S12000023,Orkney Islands,2016-2019,Summary activity levels: Meets recommendations,Male,67
+S12000023,Orkney Islands,2016-2019,Summary activity levels: Some activity,All,12
+S12000023,Orkney Islands,2016-2019,Summary activity levels: Some activity,Female,12
+S12000023,Orkney Islands,2016-2019,Summary activity levels: Some activity,Male,11
+S12000023,Orkney Islands,2016-2019,Summary activity levels: Very low activity,All,22
+S12000023,Orkney Islands,2016-2019,Summary activity levels: Very low activity,Female,25
+S12000023,Orkney Islands,2016-2019,Summary activity levels: Very low activity,Male,19
+S12000026,Scottish Borders,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,All,20
+S12000026,Scottish Borders,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Female,18
+S12000026,Scottish Borders,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Male,22
+S12000026,Scottish Borders,2016-2019,Any cardiovascular condition: No cardiovascular condition,All,80
+S12000026,Scottish Borders,2016-2019,Any cardiovascular condition: No cardiovascular condition,Female,82
+S12000026,Scottish Borders,2016-2019,Any cardiovascular condition: No cardiovascular condition,Male,78
+S12000026,Scottish Borders,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,39
+S12000026,Scottish Borders,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,40
+S12000026,Scottish Borders,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,37
+S12000026,Scottish Borders,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,34
+S12000026,Scottish Borders,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,33
+S12000026,Scottish Borders,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,36
+S12000026,Scottish Borders,2016-2019,Life satisfaction: Mode (8),All,27
+S12000026,Scottish Borders,2016-2019,Life satisfaction: Mode (8),Female,27
+S12000026,Scottish Borders,2016-2019,Life satisfaction: Mode (8),Male,26
+S12000026,Scottish Borders,2016-2019,Obesity: Not obese,All,72
+S12000026,Scottish Borders,2016-2019,Obesity: Not obese,Female,74
+S12000026,Scottish Borders,2016-2019,Obesity: Not obese,Male,68
+S12000026,Scottish Borders,2016-2019,Obesity: Obese,All,28
+S12000026,Scottish Borders,2016-2019,Obesity: Obese,Female,26
+S12000026,Scottish Borders,2016-2019,Obesity: Obese,Male,32
+S12000026,Scottish Borders,2016-2019,Overweight: Not overweight or obese,All,35
+S12000026,Scottish Borders,2016-2019,Overweight: Not overweight or obese,Female,41
+S12000026,Scottish Borders,2016-2019,Overweight: Not overweight or obese,Male,28
+S12000026,Scottish Borders,2016-2019,Overweight: Overweight (including obese),All,65
+S12000026,Scottish Borders,2016-2019,Overweight: Overweight (including obese),Female,59
+S12000026,Scottish Borders,2016-2019,Overweight: Overweight (including obese),Male,72
+S12000026,Scottish Borders,2016-2019,Summary activity levels: Low activity,All,5
+S12000026,Scottish Borders,2016-2019,Summary activity levels: Low activity,Female,6
+S12000026,Scottish Borders,2016-2019,Summary activity levels: Low activity,Male,4
+S12000026,Scottish Borders,2016-2019,Summary activity levels: Meets recommendations,All,64
+S12000026,Scottish Borders,2016-2019,Summary activity levels: Meets recommendations,Female,62
+S12000026,Scottish Borders,2016-2019,Summary activity levels: Meets recommendations,Male,66
+S12000026,Scottish Borders,2016-2019,Summary activity levels: Some activity,All,12
+S12000026,Scottish Borders,2016-2019,Summary activity levels: Some activity,Female,15
+S12000026,Scottish Borders,2016-2019,Summary activity levels: Some activity,Male,9
+S12000026,Scottish Borders,2016-2019,Summary activity levels: Very low activity,All,19
+S12000026,Scottish Borders,2016-2019,Summary activity levels: Very low activity,Female,17
+S12000026,Scottish Borders,2016-2019,Summary activity levels: Very low activity,Male,21
+S12000027,Shetland Islands,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,All,13
+S12000027,Shetland Islands,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Female,14
+S12000027,Shetland Islands,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Male,12
+S12000027,Shetland Islands,2016-2019,Any cardiovascular condition: No cardiovascular condition,All,87
+S12000027,Shetland Islands,2016-2019,Any cardiovascular condition: No cardiovascular condition,Female,86
+S12000027,Shetland Islands,2016-2019,Any cardiovascular condition: No cardiovascular condition,Male,88
+S12000027,Shetland Islands,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,38
+S12000027,Shetland Islands,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,39
+S12000027,Shetland Islands,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,37
+S12000027,Shetland Islands,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,25
+S12000027,Shetland Islands,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,21
+S12000027,Shetland Islands,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,29
+S12000027,Shetland Islands,2016-2019,Life satisfaction: Mode (8),All,37
+S12000027,Shetland Islands,2016-2019,Life satisfaction: Mode (8),Female,40
+S12000027,Shetland Islands,2016-2019,Life satisfaction: Mode (8),Male,34
+S12000027,Shetland Islands,2016-2019,Obesity: Not obese,All,66
+S12000027,Shetland Islands,2016-2019,Obesity: Not obese,Female,65
+S12000027,Shetland Islands,2016-2019,Obesity: Not obese,Male,67
+S12000027,Shetland Islands,2016-2019,Obesity: Obese,All,34
+S12000027,Shetland Islands,2016-2019,Obesity: Obese,Female,35
+S12000027,Shetland Islands,2016-2019,Obesity: Obese,Male,33
+S12000027,Shetland Islands,2016-2019,Overweight: Not overweight or obese,All,32
+S12000027,Shetland Islands,2016-2019,Overweight: Not overweight or obese,Female,34
+S12000027,Shetland Islands,2016-2019,Overweight: Not overweight or obese,Male,30
+S12000027,Shetland Islands,2016-2019,Overweight: Overweight (including obese),All,68
+S12000027,Shetland Islands,2016-2019,Overweight: Overweight (including obese),Female,66
+S12000027,Shetland Islands,2016-2019,Overweight: Overweight (including obese),Male,70
+S12000027,Shetland Islands,2016-2019,Summary activity levels: Low activity,All,4
+S12000027,Shetland Islands,2016-2019,Summary activity levels: Low activity,Female,4
+S12000027,Shetland Islands,2016-2019,Summary activity levels: Low activity,Male,4
+S12000027,Shetland Islands,2016-2019,Summary activity levels: Meets recommendations,All,62
+S12000027,Shetland Islands,2016-2019,Summary activity levels: Meets recommendations,Female,60
+S12000027,Shetland Islands,2016-2019,Summary activity levels: Meets recommendations,Male,65
+S12000027,Shetland Islands,2016-2019,Summary activity levels: Some activity,All,11
+S12000027,Shetland Islands,2016-2019,Summary activity levels: Some activity,Female,12
+S12000027,Shetland Islands,2016-2019,Summary activity levels: Some activity,Male,11
+S12000027,Shetland Islands,2016-2019,Summary activity levels: Very low activity,All,22
+S12000027,Shetland Islands,2016-2019,Summary activity levels: Very low activity,Female,24
+S12000027,Shetland Islands,2016-2019,Summary activity levels: Very low activity,Male,20
+S12000029,South Lanarkshire,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,All,13
+S12000029,South Lanarkshire,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Female,11
+S12000029,South Lanarkshire,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Male,16
+S12000029,South Lanarkshire,2016-2019,Any cardiovascular condition: No cardiovascular condition,All,87
+S12000029,South Lanarkshire,2016-2019,Any cardiovascular condition: No cardiovascular condition,Female,89
+S12000029,South Lanarkshire,2016-2019,Any cardiovascular condition: No cardiovascular condition,Male,84
+S12000029,South Lanarkshire,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,30
+S12000029,South Lanarkshire,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,32
+S12000029,South Lanarkshire,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,27
+S12000029,South Lanarkshire,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,38
+S12000029,South Lanarkshire,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,36
+S12000029,South Lanarkshire,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,39
+S12000029,South Lanarkshire,2016-2019,Life satisfaction: Mode (8),All,33
+S12000029,South Lanarkshire,2016-2019,Life satisfaction: Mode (8),Female,32
+S12000029,South Lanarkshire,2016-2019,Life satisfaction: Mode (8),Male,33
+S12000029,South Lanarkshire,2016-2019,Obesity: Not obese,All,69
+S12000029,South Lanarkshire,2016-2019,Obesity: Not obese,Female,71
+S12000029,South Lanarkshire,2016-2019,Obesity: Not obese,Male,66
+S12000029,South Lanarkshire,2016-2019,Obesity: Obese,All,31
+S12000029,South Lanarkshire,2016-2019,Obesity: Obese,Female,29
+S12000029,South Lanarkshire,2016-2019,Obesity: Obese,Male,34
+S12000029,South Lanarkshire,2016-2019,Overweight: Not overweight or obese,All,31
+S12000029,South Lanarkshire,2016-2019,Overweight: Not overweight or obese,Female,34
+S12000029,South Lanarkshire,2016-2019,Overweight: Not overweight or obese,Male,27
+S12000029,South Lanarkshire,2016-2019,Overweight: Overweight (including obese),All,69
+S12000029,South Lanarkshire,2016-2019,Overweight: Overweight (including obese),Female,66
+S12000029,South Lanarkshire,2016-2019,Overweight: Overweight (including obese),Male,73
+S12000029,South Lanarkshire,2016-2019,Summary activity levels: Low activity,All,5
+S12000029,South Lanarkshire,2016-2019,Summary activity levels: Low activity,Female,7
+S12000029,South Lanarkshire,2016-2019,Summary activity levels: Low activity,Male,3
+S12000029,South Lanarkshire,2016-2019,Summary activity levels: Meets recommendations,All,61
+S12000029,South Lanarkshire,2016-2019,Summary activity levels: Meets recommendations,Female,56
+S12000029,South Lanarkshire,2016-2019,Summary activity levels: Meets recommendations,Male,67
+S12000029,South Lanarkshire,2016-2019,Summary activity levels: Some activity,All,11
+S12000029,South Lanarkshire,2016-2019,Summary activity levels: Some activity,Female,13
+S12000029,South Lanarkshire,2016-2019,Summary activity levels: Some activity,Male,10
+S12000029,South Lanarkshire,2016-2019,Summary activity levels: Very low activity,All,22
+S12000029,South Lanarkshire,2016-2019,Summary activity levels: Very low activity,Female,25
+S12000029,South Lanarkshire,2016-2019,Summary activity levels: Very low activity,Male,20
+S12000033,Aberdeen City,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,All,13
+S12000033,Aberdeen City,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Female,11
+S12000033,Aberdeen City,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Male,16
+S12000033,Aberdeen City,2016-2019,Any cardiovascular condition: No cardiovascular condition,All,87
+S12000033,Aberdeen City,2016-2019,Any cardiovascular condition: No cardiovascular condition,Female,89
+S12000033,Aberdeen City,2016-2019,Any cardiovascular condition: No cardiovascular condition,Male,84
+S12000033,Aberdeen City,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,33
+S12000033,Aberdeen City,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,34
+S12000033,Aberdeen City,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,31
+S12000033,Aberdeen City,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,36
+S12000033,Aberdeen City,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,35
+S12000033,Aberdeen City,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,39
+S12000033,Aberdeen City,2016-2019,Life satisfaction: Mode (8),All,31
+S12000033,Aberdeen City,2016-2019,Life satisfaction: Mode (8),Female,31
+S12000033,Aberdeen City,2016-2019,Life satisfaction: Mode (8),Male,30
+S12000033,Aberdeen City,2016-2019,Obesity: Not obese,All,77
+S12000033,Aberdeen City,2016-2019,Obesity: Not obese,Female,77
+S12000033,Aberdeen City,2016-2019,Obesity: Not obese,Male,78
+S12000033,Aberdeen City,2016-2019,Obesity: Obese,All,23
+S12000033,Aberdeen City,2016-2019,Obesity: Obese,Female,23
+S12000033,Aberdeen City,2016-2019,Obesity: Obese,Male,22
+S12000033,Aberdeen City,2016-2019,Overweight: Not overweight or obese,All,41
+S12000033,Aberdeen City,2016-2019,Overweight: Not overweight or obese,Female,45
+S12000033,Aberdeen City,2016-2019,Overweight: Not overweight or obese,Male,36
+S12000033,Aberdeen City,2016-2019,Overweight: Overweight (including obese),All,59
+S12000033,Aberdeen City,2016-2019,Overweight: Overweight (including obese),Female,55
+S12000033,Aberdeen City,2016-2019,Overweight: Overweight (including obese),Male,64
+S12000033,Aberdeen City,2016-2019,Summary activity levels: Low activity,All,4
+S12000033,Aberdeen City,2016-2019,Summary activity levels: Low activity,Female,5
+S12000033,Aberdeen City,2016-2019,Summary activity levels: Low activity,Male,2
+S12000033,Aberdeen City,2016-2019,Summary activity levels: Meets recommendations,All,70
+S12000033,Aberdeen City,2016-2019,Summary activity levels: Meets recommendations,Female,64
+S12000033,Aberdeen City,2016-2019,Summary activity levels: Meets recommendations,Male,77
+S12000033,Aberdeen City,2016-2019,Summary activity levels: Some activity,All,9
+S12000033,Aberdeen City,2016-2019,Summary activity levels: Some activity,Female,10
+S12000033,Aberdeen City,2016-2019,Summary activity levels: Some activity,Male,7
+S12000033,Aberdeen City,2016-2019,Summary activity levels: Very low activity,All,18
+S12000033,Aberdeen City,2016-2019,Summary activity levels: Very low activity,Female,21
+S12000033,Aberdeen City,2016-2019,Summary activity levels: Very low activity,Male,14
+S12000034,Aberdeenshire,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,All,18
+S12000034,Aberdeenshire,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Female,17
+S12000034,Aberdeenshire,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Male,19
+S12000034,Aberdeenshire,2016-2019,Any cardiovascular condition: No cardiovascular condition,All,82
+S12000034,Aberdeenshire,2016-2019,Any cardiovascular condition: No cardiovascular condition,Female,83
+S12000034,Aberdeenshire,2016-2019,Any cardiovascular condition: No cardiovascular condition,Male,81
+S12000034,Aberdeenshire,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,40
+S12000034,Aberdeenshire,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,41
+S12000034,Aberdeenshire,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,38
+S12000034,Aberdeenshire,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,27
+S12000034,Aberdeenshire,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,26
+S12000034,Aberdeenshire,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,28
+S12000034,Aberdeenshire,2016-2019,Life satisfaction: Mode (8),All,33
+S12000034,Aberdeenshire,2016-2019,Life satisfaction: Mode (8),Female,33
+S12000034,Aberdeenshire,2016-2019,Life satisfaction: Mode (8),Male,34
+S12000034,Aberdeenshire,2016-2019,Obesity: Not obese,All,67
+S12000034,Aberdeenshire,2016-2019,Obesity: Not obese,Female,66
+S12000034,Aberdeenshire,2016-2019,Obesity: Not obese,Male,68
+S12000034,Aberdeenshire,2016-2019,Obesity: Obese,All,33
+S12000034,Aberdeenshire,2016-2019,Obesity: Obese,Female,34
+S12000034,Aberdeenshire,2016-2019,Obesity: Obese,Male,32
+S12000034,Aberdeenshire,2016-2019,Overweight: Not overweight or obese,All,30
+S12000034,Aberdeenshire,2016-2019,Overweight: Not overweight or obese,Female,34
+S12000034,Aberdeenshire,2016-2019,Overweight: Not overweight or obese,Male,27
+S12000034,Aberdeenshire,2016-2019,Overweight: Overweight (including obese),All,70
+S12000034,Aberdeenshire,2016-2019,Overweight: Overweight (including obese),Female,66
+S12000034,Aberdeenshire,2016-2019,Overweight: Overweight (including obese),Male,73
+S12000034,Aberdeenshire,2016-2019,Summary activity levels: Low activity,All,4
+S12000034,Aberdeenshire,2016-2019,Summary activity levels: Low activity,Female,5
+S12000034,Aberdeenshire,2016-2019,Summary activity levels: Low activity,Male,4
+S12000034,Aberdeenshire,2016-2019,Summary activity levels: Meets recommendations,All,63
+S12000034,Aberdeenshire,2016-2019,Summary activity levels: Meets recommendations,Female,59
+S12000034,Aberdeenshire,2016-2019,Summary activity levels: Meets recommendations,Male,67
+S12000034,Aberdeenshire,2016-2019,Summary activity levels: Some activity,All,11
+S12000034,Aberdeenshire,2016-2019,Summary activity levels: Some activity,Female,10
+S12000034,Aberdeenshire,2016-2019,Summary activity levels: Some activity,Male,12
+S12000034,Aberdeenshire,2016-2019,Summary activity levels: Very low activity,All,21
+S12000034,Aberdeenshire,2016-2019,Summary activity levels: Very low activity,Female,25
+S12000034,Aberdeenshire,2016-2019,Summary activity levels: Very low activity,Male,17
+S12000036,City of Edinburgh,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,All,9
+S12000036,City of Edinburgh,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Female,11
+S12000036,City of Edinburgh,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Male,8
+S12000036,City of Edinburgh,2016-2019,Any cardiovascular condition: No cardiovascular condition,All,91
+S12000036,City of Edinburgh,2016-2019,Any cardiovascular condition: No cardiovascular condition,Female,89
+S12000036,City of Edinburgh,2016-2019,Any cardiovascular condition: No cardiovascular condition,Male,92
+S12000036,City of Edinburgh,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,32
+S12000036,City of Edinburgh,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,33
+S12000036,City of Edinburgh,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,32
+S12000036,City of Edinburgh,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,34
+S12000036,City of Edinburgh,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,31
+S12000036,City of Edinburgh,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,37
+S12000036,City of Edinburgh,2016-2019,Life satisfaction: Mode (8),All,33
+S12000036,City of Edinburgh,2016-2019,Life satisfaction: Mode (8),Female,36
+S12000036,City of Edinburgh,2016-2019,Life satisfaction: Mode (8),Male,31
+S12000036,City of Edinburgh,2016-2019,Obesity: Not obese,All,81
+S12000036,City of Edinburgh,2016-2019,Obesity: Not obese,Female,81
+S12000036,City of Edinburgh,2016-2019,Obesity: Not obese,Male,81
+S12000036,City of Edinburgh,2016-2019,Obesity: Obese,All,19
+S12000036,City of Edinburgh,2016-2019,Obesity: Obese,Female,19
+S12000036,City of Edinburgh,2016-2019,Obesity: Obese,Male,19
+S12000036,City of Edinburgh,2016-2019,Overweight: Not overweight or obese,All,47
+S12000036,City of Edinburgh,2016-2019,Overweight: Not overweight or obese,Female,53
+S12000036,City of Edinburgh,2016-2019,Overweight: Not overweight or obese,Male,42
+S12000036,City of Edinburgh,2016-2019,Overweight: Overweight (including obese),All,53
+S12000036,City of Edinburgh,2016-2019,Overweight: Overweight (including obese),Female,47
+S12000036,City of Edinburgh,2016-2019,Overweight: Overweight (including obese),Male,58
+S12000036,City of Edinburgh,2016-2019,Summary activity levels: Low activity,All,3
+S12000036,City of Edinburgh,2016-2019,Summary activity levels: Low activity,Female,4
+S12000036,City of Edinburgh,2016-2019,Summary activity levels: Low activity,Male,1
+S12000036,City of Edinburgh,2016-2019,Summary activity levels: Meets recommendations,All,75
+S12000036,City of Edinburgh,2016-2019,Summary activity levels: Meets recommendations,Female,70
+S12000036,City of Edinburgh,2016-2019,Summary activity levels: Meets recommendations,Male,81
+S12000036,City of Edinburgh,2016-2019,Summary activity levels: Some activity,All,8
+S12000036,City of Edinburgh,2016-2019,Summary activity levels: Some activity,Female,10
+S12000036,City of Edinburgh,2016-2019,Summary activity levels: Some activity,Male,7
+S12000036,City of Edinburgh,2016-2019,Summary activity levels: Very low activity,All,14
+S12000036,City of Edinburgh,2016-2019,Summary activity levels: Very low activity,Female,16
+S12000036,City of Edinburgh,2016-2019,Summary activity levels: Very low activity,Male,11
+S12000047,Fife,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,All,17
+S12000047,Fife,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Female,14
+S12000047,Fife,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Male,21
+S12000047,Fife,2016-2019,Any cardiovascular condition: No cardiovascular condition,All,83
+S12000047,Fife,2016-2019,Any cardiovascular condition: No cardiovascular condition,Female,86
+S12000047,Fife,2016-2019,Any cardiovascular condition: No cardiovascular condition,Male,79
+S12000047,Fife,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,38
+S12000047,Fife,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,36
+S12000047,Fife,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,40
+S12000047,Fife,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,33
+S12000047,Fife,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,35
+S12000047,Fife,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,32
+S12000047,Fife,2016-2019,Life satisfaction: Mode (8),All,29
+S12000047,Fife,2016-2019,Life satisfaction: Mode (8),Female,29
+S12000047,Fife,2016-2019,Life satisfaction: Mode (8),Male,28
+S12000047,Fife,2016-2019,Obesity: Not obese,All,69
+S12000047,Fife,2016-2019,Obesity: Not obese,Female,66
+S12000047,Fife,2016-2019,Obesity: Not obese,Male,71
+S12000047,Fife,2016-2019,Obesity: Obese,All,31
+S12000047,Fife,2016-2019,Obesity: Obese,Female,34
+S12000047,Fife,2016-2019,Obesity: Obese,Male,29
+S12000047,Fife,2016-2019,Overweight: Not overweight or obese,All,32
+S12000047,Fife,2016-2019,Overweight: Not overweight or obese,Female,33
+S12000047,Fife,2016-2019,Overweight: Not overweight or obese,Male,31
+S12000047,Fife,2016-2019,Overweight: Overweight (including obese),All,68
+S12000047,Fife,2016-2019,Overweight: Overweight (including obese),Female,67
+S12000047,Fife,2016-2019,Overweight: Overweight (including obese),Male,69
+S12000047,Fife,2016-2019,Summary activity levels: Low activity,All,5
+S12000047,Fife,2016-2019,Summary activity levels: Low activity,Female,5
+S12000047,Fife,2016-2019,Summary activity levels: Low activity,Male,5
+S12000047,Fife,2016-2019,Summary activity levels: Meets recommendations,All,63
+S12000047,Fife,2016-2019,Summary activity levels: Meets recommendations,Female,58
+S12000047,Fife,2016-2019,Summary activity levels: Meets recommendations,Male,68
+S12000047,Fife,2016-2019,Summary activity levels: Some activity,All,11
+S12000047,Fife,2016-2019,Summary activity levels: Some activity,Female,12
+S12000047,Fife,2016-2019,Summary activity levels: Some activity,Male,9
+S12000047,Fife,2016-2019,Summary activity levels: Very low activity,All,22
+S12000047,Fife,2016-2019,Summary activity levels: Very low activity,Female,25
+S12000047,Fife,2016-2019,Summary activity levels: Very low activity,Male,19
+S12000049,Glasgow City,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,All,15
+S12000049,Glasgow City,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Female,16
+S12000049,Glasgow City,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Male,14
+S12000049,Glasgow City,2016-2019,Any cardiovascular condition: No cardiovascular condition,All,85
+S12000049,Glasgow City,2016-2019,Any cardiovascular condition: No cardiovascular condition,Female,84
+S12000049,Glasgow City,2016-2019,Any cardiovascular condition: No cardiovascular condition,Male,86
+S12000049,Glasgow City,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,29
+S12000049,Glasgow City,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,30
+S12000049,Glasgow City,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,28
+S12000049,Glasgow City,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,43
+S12000049,Glasgow City,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,45
+S12000049,Glasgow City,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,42
+S12000049,Glasgow City,2016-2019,Life satisfaction: Mode (8),All,28
+S12000049,Glasgow City,2016-2019,Life satisfaction: Mode (8),Female,26
+S12000049,Glasgow City,2016-2019,Life satisfaction: Mode (8),Male,31
+S12000049,Glasgow City,2016-2019,Obesity: Not obese,All,73
+S12000049,Glasgow City,2016-2019,Obesity: Not obese,Female,68
+S12000049,Glasgow City,2016-2019,Obesity: Not obese,Male,78
+S12000049,Glasgow City,2016-2019,Obesity: Obese,All,27
+S12000049,Glasgow City,2016-2019,Obesity: Obese,Female,32
+S12000049,Glasgow City,2016-2019,Obesity: Obese,Male,22
+S12000049,Glasgow City,2016-2019,Overweight: Not overweight or obese,All,39
+S12000049,Glasgow City,2016-2019,Overweight: Not overweight or obese,Female,37
+S12000049,Glasgow City,2016-2019,Overweight: Not overweight or obese,Male,42
+S12000049,Glasgow City,2016-2019,Overweight: Overweight (including obese),All,61
+S12000049,Glasgow City,2016-2019,Overweight: Overweight (including obese),Female,63
+S12000049,Glasgow City,2016-2019,Overweight: Overweight (including obese),Male,58
+S12000049,Glasgow City,2016-2019,Summary activity levels: Low activity,All,4
+S12000049,Glasgow City,2016-2019,Summary activity levels: Low activity,Female,5
+S12000049,Glasgow City,2016-2019,Summary activity levels: Low activity,Male,4
+S12000049,Glasgow City,2016-2019,Summary activity levels: Meets recommendations,All,62
+S12000049,Glasgow City,2016-2019,Summary activity levels: Meets recommendations,Female,56
+S12000049,Glasgow City,2016-2019,Summary activity levels: Meets recommendations,Male,69
+S12000049,Glasgow City,2016-2019,Summary activity levels: Some activity,All,11
+S12000049,Glasgow City,2016-2019,Summary activity levels: Some activity,Female,13
+S12000049,Glasgow City,2016-2019,Summary activity levels: Some activity,Male,8
+S12000049,Glasgow City,2016-2019,Summary activity levels: Very low activity,All,23
+S12000049,Glasgow City,2016-2019,Summary activity levels: Very low activity,Female,26
+S12000049,Glasgow City,2016-2019,Summary activity levels: Very low activity,Male,19
+S12000050,North Lanarkshire,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,All,16
+S12000050,North Lanarkshire,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Female,15
+S12000050,North Lanarkshire,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Male,16
+S12000050,North Lanarkshire,2016-2019,Any cardiovascular condition: No cardiovascular condition,All,84
+S12000050,North Lanarkshire,2016-2019,Any cardiovascular condition: No cardiovascular condition,Female,85
+S12000050,North Lanarkshire,2016-2019,Any cardiovascular condition: No cardiovascular condition,Male,84
+S12000050,North Lanarkshire,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,29
+S12000050,North Lanarkshire,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,32
+S12000050,North Lanarkshire,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,27
+S12000050,North Lanarkshire,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,40
+S12000050,North Lanarkshire,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,37
+S12000050,North Lanarkshire,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,44
+S12000050,North Lanarkshire,2016-2019,Life satisfaction: Mode (8),All,30
+S12000050,North Lanarkshire,2016-2019,Life satisfaction: Mode (8),Female,31
+S12000050,North Lanarkshire,2016-2019,Life satisfaction: Mode (8),Male,29
+S12000050,North Lanarkshire,2016-2019,Obesity: Not obese,All,67
+S12000050,North Lanarkshire,2016-2019,Obesity: Not obese,Female,68
+S12000050,North Lanarkshire,2016-2019,Obesity: Not obese,Male,66
+S12000050,North Lanarkshire,2016-2019,Obesity: Obese,All,33
+S12000050,North Lanarkshire,2016-2019,Obesity: Obese,Female,32
+S12000050,North Lanarkshire,2016-2019,Obesity: Obese,Male,34
+S12000050,North Lanarkshire,2016-2019,Overweight: Not overweight or obese,All,30
+S12000050,North Lanarkshire,2016-2019,Overweight: Not overweight or obese,Female,31
+S12000050,North Lanarkshire,2016-2019,Overweight: Not overweight or obese,Male,29
+S12000050,North Lanarkshire,2016-2019,Overweight: Overweight (including obese),All,70
+S12000050,North Lanarkshire,2016-2019,Overweight: Overweight (including obese),Female,69
+S12000050,North Lanarkshire,2016-2019,Overweight: Overweight (including obese),Male,71
+S12000050,North Lanarkshire,2016-2019,Summary activity levels: Low activity,All,3
+S12000050,North Lanarkshire,2016-2019,Summary activity levels: Low activity,Female,5
+S12000050,North Lanarkshire,2016-2019,Summary activity levels: Low activity,Male,2
+S12000050,North Lanarkshire,2016-2019,Summary activity levels: Meets recommendations,All,60
+S12000050,North Lanarkshire,2016-2019,Summary activity levels: Meets recommendations,Female,54
+S12000050,North Lanarkshire,2016-2019,Summary activity levels: Meets recommendations,Male,66
+S12000050,North Lanarkshire,2016-2019,Summary activity levels: Some activity,All,14
+S12000050,North Lanarkshire,2016-2019,Summary activity levels: Some activity,Female,17
+S12000050,North Lanarkshire,2016-2019,Summary activity levels: Some activity,Male,10
+S12000050,North Lanarkshire,2016-2019,Summary activity levels: Very low activity,All,23
+S12000050,North Lanarkshire,2016-2019,Summary activity levels: Very low activity,Female,23
+S12000050,North Lanarkshire,2016-2019,Summary activity levels: Very low activity,Male,22
+S92000003,Scotland,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,All,16
+S92000003,Scotland,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Female,15
+S92000003,Scotland,2016-2019,Any cardiovascular condition: Has a cardiovascular condition,Male,16
+S92000003,Scotland,2016-2019,Any cardiovascular condition: No cardiovascular condition,All,84
+S92000003,Scotland,2016-2019,Any cardiovascular condition: No cardiovascular condition,Female,85
+S92000003,Scotland,2016-2019,Any cardiovascular condition: No cardiovascular condition,Male,84
+S92000003,Scotland,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,35
+S92000003,Scotland,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,35
+S92000003,Scotland,2016-2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,34
+S92000003,Scotland,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,34
+S92000003,Scotland,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,34
+S92000003,Scotland,2016-2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,35
+S92000003,Scotland,2016-2019,Life satisfaction: Mode (8),All,31
+S92000003,Scotland,2016-2019,Life satisfaction: Mode (8),Female,31
+S92000003,Scotland,2016-2019,Life satisfaction: Mode (8),Male,31
+S92000003,Scotland,2016-2019,Obesity: Not obese,All,71
+S92000003,Scotland,2016-2019,Obesity: Not obese,Female,70
+S92000003,Scotland,2016-2019,Obesity: Not obese,Male,72
+S92000003,Scotland,2016-2019,Obesity: Obese,All,29
+S92000003,Scotland,2016-2019,Obesity: Obese,Female,30
+S92000003,Scotland,2016-2019,Obesity: Obese,Male,28
+S92000003,Scotland,2016-2019,Overweight: Not overweight or obese,All,35
+S92000003,Scotland,2016-2019,Overweight: Not overweight or obese,Female,37
+S92000003,Scotland,2016-2019,Overweight: Not overweight or obese,Male,32
+S92000003,Scotland,2016-2019,Overweight: Overweight (including obese),All,65
+S92000003,Scotland,2016-2019,Overweight: Overweight (including obese),Female,63
+S92000003,Scotland,2016-2019,Overweight: Overweight (including obese),Male,68
+S92000003,Scotland,2016-2019,Summary activity levels: Low activity,All,4
+S92000003,Scotland,2016-2019,Summary activity levels: Low activity,Female,5
+S92000003,Scotland,2016-2019,Summary activity levels: Low activity,Male,3
+S92000003,Scotland,2016-2019,Summary activity levels: Meets recommendations,All,65
+S92000003,Scotland,2016-2019,Summary activity levels: Meets recommendations,Female,60
+S92000003,Scotland,2016-2019,Summary activity levels: Meets recommendations,Male,70
+S92000003,Scotland,2016-2019,Summary activity levels: Some activity,All,11
+S92000003,Scotland,2016-2019,Summary activity levels: Some activity,Female,12
+S92000003,Scotland,2016-2019,Summary activity levels: Some activity,Male,9
+S92000003,Scotland,2016-2019,Summary activity levels: Very low activity,All,21
+S92000003,Scotland,2016-2019,Summary activity levels: Very low activity,Female,23
+S92000003,Scotland,2016-2019,Summary activity levels: Very low activity,Male,18

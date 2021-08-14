@@ -1,0 +1,421 @@
+area_code,year,scottish_health_survey_indicator,sex,percentage
+S92000003,2008,Any cardiovascular condition: Has a cardiovascular condition,All,15
+S92000003,2008,Any cardiovascular condition: Has a cardiovascular condition,Female,16
+S92000003,2008,Any cardiovascular condition: Has a cardiovascular condition,Male,15
+S92000003,2008,Any cardiovascular condition: No cardiovascular condition,All,85
+S92000003,2008,Any cardiovascular condition: No cardiovascular condition,Female,84
+S92000003,2008,Any cardiovascular condition: No cardiovascular condition,Male,85
+S92000003,2008,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,31
+S92000003,2008,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,30
+S92000003,2008,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,32
+S92000003,2008,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,40
+S92000003,2008,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,41
+S92000003,2008,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,39
+S92000003,2008,Life satisfaction: Mode (8),All,30
+S92000003,2008,Life satisfaction: Mode (8),Female,30
+S92000003,2008,Life satisfaction: Mode (8),Male,30
+S92000003,2008,Obesity: Not obese,All,73
+S92000003,2008,Obesity: Not obese,Female,73
+S92000003,2008,Obesity: Not obese,Male,74
+S92000003,2008,Obesity: Obese,All,27
+S92000003,2008,Obesity: Obese,Female,27
+S92000003,2008,Obesity: Obese,Male,26
+S92000003,2008,Overweight: Not overweight or obese,All,35
+S92000003,2008,Overweight: Not overweight or obese,Female,38
+S92000003,2008,Overweight: Not overweight or obese,Male,32
+S92000003,2008,Overweight: Overweight (including obese),All,65
+S92000003,2008,Overweight: Overweight (including obese),Female,62
+S92000003,2008,Overweight: Overweight (including obese),Male,68
+S92000003,2009,Any cardiovascular condition: Has a cardiovascular condition,All,14
+S92000003,2009,Any cardiovascular condition: Has a cardiovascular condition,Female,14
+S92000003,2009,Any cardiovascular condition: Has a cardiovascular condition,Male,15
+S92000003,2009,Any cardiovascular condition: No cardiovascular condition,All,86
+S92000003,2009,Any cardiovascular condition: No cardiovascular condition,Female,86
+S92000003,2009,Any cardiovascular condition: No cardiovascular condition,Male,85
+S92000003,2009,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,31
+S92000003,2009,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,32
+S92000003,2009,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,30
+S92000003,2009,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,38
+S92000003,2009,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,37
+S92000003,2009,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,39
+S92000003,2009,Life satisfaction: Mode (8),All,31
+S92000003,2009,Life satisfaction: Mode (8),Female,32
+S92000003,2009,Life satisfaction: Mode (8),Male,31
+S92000003,2009,Obesity: Not obese,All,72
+S92000003,2009,Obesity: Not obese,Female,72
+S92000003,2009,Obesity: Not obese,Male,72
+S92000003,2009,Obesity: Obese,All,28
+S92000003,2009,Obesity: Obese,Female,28
+S92000003,2009,Obesity: Obese,Male,28
+S92000003,2009,Overweight: Not overweight or obese,All,35
+S92000003,2009,Overweight: Not overweight or obese,Female,39
+S92000003,2009,Overweight: Not overweight or obese,Male,32
+S92000003,2009,Overweight: Overweight (including obese),All,65
+S92000003,2009,Overweight: Overweight (including obese),Female,61
+S92000003,2009,Overweight: Overweight (including obese),Male,68
+S92000003,2010,Any cardiovascular condition: Has a cardiovascular condition,All,15
+S92000003,2010,Any cardiovascular condition: Has a cardiovascular condition,Female,14
+S92000003,2010,Any cardiovascular condition: Has a cardiovascular condition,Male,16
+S92000003,2010,Any cardiovascular condition: No cardiovascular condition,All,85
+S92000003,2010,Any cardiovascular condition: No cardiovascular condition,Female,86
+S92000003,2010,Any cardiovascular condition: No cardiovascular condition,Male,84
+S92000003,2010,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,30
+S92000003,2010,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,30
+S92000003,2010,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,30
+S92000003,2010,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,40
+S92000003,2010,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,40
+S92000003,2010,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,39
+S92000003,2010,Life satisfaction: Mode (8),All,31
+S92000003,2010,Life satisfaction: Mode (8),Female,30
+S92000003,2010,Life satisfaction: Mode (8),Male,31
+S92000003,2010,Obesity: Not obese,All,72
+S92000003,2010,Obesity: Not obese,Female,71
+S92000003,2010,Obesity: Not obese,Male,73
+S92000003,2010,Obesity: Obese,All,28
+S92000003,2010,Obesity: Obese,Female,29
+S92000003,2010,Obesity: Obese,Male,27
+S92000003,2010,Overweight: Not overweight or obese,All,35
+S92000003,2010,Overweight: Not overweight or obese,Female,38
+S92000003,2010,Overweight: Not overweight or obese,Male,32
+S92000003,2010,Overweight: Overweight (including obese),All,65
+S92000003,2010,Overweight: Overweight (including obese),Female,62
+S92000003,2010,Overweight: Overweight (including obese),Male,68
+S92000003,2011,Any cardiovascular condition: Has a cardiovascular condition,All,15
+S92000003,2011,Any cardiovascular condition: Has a cardiovascular condition,Female,14
+S92000003,2011,Any cardiovascular condition: Has a cardiovascular condition,Male,16
+S92000003,2011,Any cardiovascular condition: No cardiovascular condition,All,85
+S92000003,2011,Any cardiovascular condition: No cardiovascular condition,Female,86
+S92000003,2011,Any cardiovascular condition: No cardiovascular condition,Male,84
+S92000003,2011,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,31
+S92000003,2011,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,31
+S92000003,2011,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,30
+S92000003,2011,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,38
+S92000003,2011,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,38
+S92000003,2011,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,38
+S92000003,2011,Life satisfaction: Mode (8),All,31
+S92000003,2011,Life satisfaction: Mode (8),Female,31
+S92000003,2011,Life satisfaction: Mode (8),Male,32
+S92000003,2011,Obesity: Not obese,All,72
+S92000003,2011,Obesity: Not obese,Female,72
+S92000003,2011,Obesity: Not obese,Male,72
+S92000003,2011,Obesity: Obese,All,28
+S92000003,2011,Obesity: Obese,Female,28
+S92000003,2011,Obesity: Obese,Male,28
+S92000003,2011,Overweight: Not overweight or obese,All,36
+S92000003,2011,Overweight: Not overweight or obese,Female,40
+S92000003,2011,Overweight: Not overweight or obese,Male,31
+S92000003,2011,Overweight: Overweight (including obese),All,64
+S92000003,2011,Overweight: Overweight (including obese),Female,60
+S92000003,2011,Overweight: Overweight (including obese),Male,69
+S92000003,2012,Any cardiovascular condition: Has a cardiovascular condition,All,16
+S92000003,2012,Any cardiovascular condition: Has a cardiovascular condition,Female,16
+S92000003,2012,Any cardiovascular condition: Has a cardiovascular condition,Male,17
+S92000003,2012,Any cardiovascular condition: No cardiovascular condition,All,84
+S92000003,2012,Any cardiovascular condition: No cardiovascular condition,Female,84
+S92000003,2012,Any cardiovascular condition: No cardiovascular condition,Male,83
+S92000003,2012,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,32
+S92000003,2012,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,32
+S92000003,2012,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,33
+S92000003,2012,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,37
+S92000003,2012,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,36
+S92000003,2012,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,37
+S92000003,2012,Life satisfaction: Mode (8),All,31
+S92000003,2012,Life satisfaction: Mode (8),Female,31
+S92000003,2012,Life satisfaction: Mode (8),Male,30
+S92000003,2012,Obesity: Not obese,All,73
+S92000003,2012,Obesity: Not obese,Female,72
+S92000003,2012,Obesity: Not obese,Male,73
+S92000003,2012,Obesity: Obese,All,27
+S92000003,2012,Obesity: Obese,Female,28
+S92000003,2012,Obesity: Obese,Male,27
+S92000003,2012,Overweight: Not overweight or obese,All,36
+S92000003,2012,Overweight: Not overweight or obese,Female,40
+S92000003,2012,Overweight: Not overweight or obese,Male,32
+S92000003,2012,Overweight: Overweight (including obese),All,64
+S92000003,2012,Overweight: Overweight (including obese),Female,60
+S92000003,2012,Overweight: Overweight (including obese),Male,68
+S92000003,2012,Summary activity levels: Low activity,All,5
+S92000003,2012,Summary activity levels: Low activity,Female,6
+S92000003,2012,Summary activity levels: Low activity,Male,4
+S92000003,2012,Summary activity levels: Meets recommendations,All,62
+S92000003,2012,Summary activity levels: Meets recommendations,Female,58
+S92000003,2012,Summary activity levels: Meets recommendations,Male,67
+S92000003,2012,Summary activity levels: Some activity,All,12
+S92000003,2012,Summary activity levels: Some activity,Female,14
+S92000003,2012,Summary activity levels: Some activity,Male,10
+S92000003,2012,Summary activity levels: Very low activity,All,21
+S92000003,2012,Summary activity levels: Very low activity,Female,23
+S92000003,2012,Summary activity levels: Very low activity,Male,19
+S92000003,2013,Any cardiovascular condition: Has a cardiovascular condition,All,16
+S92000003,2013,Any cardiovascular condition: Has a cardiovascular condition,Female,15
+S92000003,2013,Any cardiovascular condition: Has a cardiovascular condition,Male,16
+S92000003,2013,Any cardiovascular condition: No cardiovascular condition,All,84
+S92000003,2013,Any cardiovascular condition: No cardiovascular condition,Female,85
+S92000003,2013,Any cardiovascular condition: No cardiovascular condition,Male,84
+S92000003,2013,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,32
+S92000003,2013,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,32
+S92000003,2013,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,31
+S92000003,2013,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,36
+S92000003,2013,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,37
+S92000003,2013,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,34
+S92000003,2013,Life satisfaction: Mode (8),All,32
+S92000003,2013,Life satisfaction: Mode (8),Female,30
+S92000003,2013,Life satisfaction: Mode (8),Male,34
+S92000003,2013,Obesity: Not obese,All,72
+S92000003,2013,Obesity: Not obese,Female,70
+S92000003,2013,Obesity: Not obese,Male,74
+S92000003,2013,Obesity: Obese,All,28
+S92000003,2013,Obesity: Obese,Female,30
+S92000003,2013,Obesity: Obese,Male,26
+S92000003,2013,Overweight: Not overweight or obese,All,35
+S92000003,2013,Overweight: Not overweight or obese,Female,39
+S92000003,2013,Overweight: Not overweight or obese,Male,31
+S92000003,2013,Overweight: Overweight (including obese),All,65
+S92000003,2013,Overweight: Overweight (including obese),Female,61
+S92000003,2013,Overweight: Overweight (including obese),Male,69
+S92000003,2013,Summary activity levels: Low activity,All,4
+S92000003,2013,Summary activity levels: Low activity,Female,5
+S92000003,2013,Summary activity levels: Low activity,Male,3
+S92000003,2013,Summary activity levels: Meets recommendations,All,64
+S92000003,2013,Summary activity levels: Meets recommendations,Female,58
+S92000003,2013,Summary activity levels: Meets recommendations,Male,71
+S92000003,2013,Summary activity levels: Some activity,All,11
+S92000003,2013,Summary activity levels: Some activity,Female,14
+S92000003,2013,Summary activity levels: Some activity,Male,8
+S92000003,2013,Summary activity levels: Very low activity,All,21
+S92000003,2013,Summary activity levels: Very low activity,Female,23
+S92000003,2013,Summary activity levels: Very low activity,Male,18
+S92000003,2014,Any cardiovascular condition: Has a cardiovascular condition,All,16
+S92000003,2014,Any cardiovascular condition: Has a cardiovascular condition,Female,14
+S92000003,2014,Any cardiovascular condition: Has a cardiovascular condition,Male,18
+S92000003,2014,Any cardiovascular condition: No cardiovascular condition,All,84
+S92000003,2014,Any cardiovascular condition: No cardiovascular condition,Female,86
+S92000003,2014,Any cardiovascular condition: No cardiovascular condition,Male,82
+S92000003,2014,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,34
+S92000003,2014,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,35
+S92000003,2014,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,33
+S92000003,2014,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,33
+S92000003,2014,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,34
+S92000003,2014,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,33
+S92000003,2014,Life satisfaction: Mode (8),All,32
+S92000003,2014,Life satisfaction: Mode (8),Female,31
+S92000003,2014,Life satisfaction: Mode (8),Male,34
+S92000003,2014,Obesity: Not obese,All,72
+S92000003,2014,Obesity: Not obese,Female,71
+S92000003,2014,Obesity: Not obese,Male,74
+S92000003,2014,Obesity: Obese,All,28
+S92000003,2014,Obesity: Obese,Female,29
+S92000003,2014,Obesity: Obese,Male,26
+S92000003,2014,Overweight: Not overweight or obese,All,35
+S92000003,2014,Overweight: Not overweight or obese,Female,39
+S92000003,2014,Overweight: Not overweight or obese,Male,31
+S92000003,2014,Overweight: Overweight (including obese),All,65
+S92000003,2014,Overweight: Overweight (including obese),Female,61
+S92000003,2014,Overweight: Overweight (including obese),Male,69
+S92000003,2014,Summary activity levels: Low activity,All,4
+S92000003,2014,Summary activity levels: Low activity,Female,5
+S92000003,2014,Summary activity levels: Low activity,Male,4
+S92000003,2014,Summary activity levels: Meets recommendations,All,63
+S92000003,2014,Summary activity levels: Meets recommendations,Female,59
+S92000003,2014,Summary activity levels: Meets recommendations,Male,68
+S92000003,2014,Summary activity levels: Some activity,All,11
+S92000003,2014,Summary activity levels: Some activity,Female,12
+S92000003,2014,Summary activity levels: Some activity,Male,10
+S92000003,2014,Summary activity levels: Very low activity,All,22
+S92000003,2014,Summary activity levels: Very low activity,Female,24
+S92000003,2014,Summary activity levels: Very low activity,Male,19
+S92000003,2015,Any cardiovascular condition: Has a cardiovascular condition,All,15
+S92000003,2015,Any cardiovascular condition: Has a cardiovascular condition,Female,15
+S92000003,2015,Any cardiovascular condition: Has a cardiovascular condition,Male,16
+S92000003,2015,Any cardiovascular condition: No cardiovascular condition,All,85
+S92000003,2015,Any cardiovascular condition: No cardiovascular condition,Female,85
+S92000003,2015,Any cardiovascular condition: No cardiovascular condition,Male,84
+S92000003,2015,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,33
+S92000003,2015,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,34
+S92000003,2015,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,33
+S92000003,2015,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,33
+S92000003,2015,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,35
+S92000003,2015,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,32
+S92000003,2015,Life satisfaction: Mode (8),All,33
+S92000003,2015,Life satisfaction: Mode (8),Female,32
+S92000003,2015,Life satisfaction: Mode (8),Male,35
+S92000003,2015,Obesity: Not obese,All,71
+S92000003,2015,Obesity: Not obese,Female,70
+S92000003,2015,Obesity: Not obese,Male,72
+S92000003,2015,Obesity: Obese,All,29
+S92000003,2015,Obesity: Obese,Female,30
+S92000003,2015,Obesity: Obese,Male,28
+S92000003,2015,Overweight: Not overweight or obese,All,35
+S92000003,2015,Overweight: Not overweight or obese,Female,38
+S92000003,2015,Overweight: Not overweight or obese,Male,33
+S92000003,2015,Overweight: Overweight (including obese),All,65
+S92000003,2015,Overweight: Overweight (including obese),Female,62
+S92000003,2015,Overweight: Overweight (including obese),Male,67
+S92000003,2015,Summary activity levels: Low activity,All,5
+S92000003,2015,Summary activity levels: Low activity,Female,5
+S92000003,2015,Summary activity levels: Low activity,Male,4
+S92000003,2015,Summary activity levels: Meets recommendations,All,63
+S92000003,2015,Summary activity levels: Meets recommendations,Female,59
+S92000003,2015,Summary activity levels: Meets recommendations,Male,67
+S92000003,2015,Summary activity levels: Some activity,All,12
+S92000003,2015,Summary activity levels: Some activity,Female,14
+S92000003,2015,Summary activity levels: Some activity,Male,9
+S92000003,2015,Summary activity levels: Very low activity,All,21
+S92000003,2015,Summary activity levels: Very low activity,Female,23
+S92000003,2015,Summary activity levels: Very low activity,Male,19
+S92000003,2016,Any cardiovascular condition: Has a cardiovascular condition,All,15
+S92000003,2016,Any cardiovascular condition: Has a cardiovascular condition,Female,15
+S92000003,2016,Any cardiovascular condition: Has a cardiovascular condition,Male,16
+S92000003,2016,Any cardiovascular condition: No cardiovascular condition,All,85
+S92000003,2016,Any cardiovascular condition: No cardiovascular condition,Female,85
+S92000003,2016,Any cardiovascular condition: No cardiovascular condition,Male,84
+S92000003,2016,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,34
+S92000003,2016,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,35
+S92000003,2016,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,32
+S92000003,2016,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,34
+S92000003,2016,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,33
+S92000003,2016,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,35
+S92000003,2016,Life satisfaction: Mode (8),All,33
+S92000003,2016,Life satisfaction: Mode (8),Female,32
+S92000003,2016,Life satisfaction: Mode (8),Male,33
+S92000003,2016,Obesity: Not obese,All,71
+S92000003,2016,Obesity: Not obese,Female,71
+S92000003,2016,Obesity: Not obese,Male,71
+S92000003,2016,Obesity: Obese,All,29
+S92000003,2016,Obesity: Obese,Female,29
+S92000003,2016,Obesity: Obese,Male,29
+S92000003,2016,Overweight: Not overweight or obese,All,35
+S92000003,2016,Overweight: Not overweight or obese,Female,39
+S92000003,2016,Overweight: Not overweight or obese,Male,32
+S92000003,2016,Overweight: Overweight (including obese),All,65
+S92000003,2016,Overweight: Overweight (including obese),Female,61
+S92000003,2016,Overweight: Overweight (including obese),Male,68
+S92000003,2016,Summary activity levels: Low activity,All,5
+S92000003,2016,Summary activity levels: Low activity,Female,6
+S92000003,2016,Summary activity levels: Low activity,Male,3
+S92000003,2016,Summary activity levels: Meets recommendations,All,64
+S92000003,2016,Summary activity levels: Meets recommendations,Female,59
+S92000003,2016,Summary activity levels: Meets recommendations,Male,69
+S92000003,2016,Summary activity levels: Some activity,All,11
+S92000003,2016,Summary activity levels: Some activity,Female,12
+S92000003,2016,Summary activity levels: Some activity,Male,10
+S92000003,2016,Summary activity levels: Very low activity,All,20
+S92000003,2016,Summary activity levels: Very low activity,Female,23
+S92000003,2016,Summary activity levels: Very low activity,Male,18
+S92000003,2017,Any cardiovascular condition: Has a cardiovascular condition,All,15
+S92000003,2017,Any cardiovascular condition: Has a cardiovascular condition,Female,15
+S92000003,2017,Any cardiovascular condition: Has a cardiovascular condition,Male,16
+S92000003,2017,Any cardiovascular condition: No cardiovascular condition,All,85
+S92000003,2017,Any cardiovascular condition: No cardiovascular condition,Female,85
+S92000003,2017,Any cardiovascular condition: No cardiovascular condition,Male,84
+S92000003,2017,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,34
+S92000003,2017,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,35
+S92000003,2017,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,33
+S92000003,2017,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,35
+S92000003,2017,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,33
+S92000003,2017,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,36
+S92000003,2017,Life satisfaction: Mode (8),All,31
+S92000003,2017,Life satisfaction: Mode (8),Female,32
+S92000003,2017,Life satisfaction: Mode (8),Male,31
+S92000003,2017,Obesity: Not obese,All,71
+S92000003,2017,Obesity: Not obese,Female,70
+S92000003,2017,Obesity: Not obese,Male,73
+S92000003,2017,Obesity: Obese,All,29
+S92000003,2017,Obesity: Obese,Female,30
+S92000003,2017,Obesity: Obese,Male,27
+S92000003,2017,Overweight: Not overweight or obese,All,35
+S92000003,2017,Overweight: Not overweight or obese,Female,37
+S92000003,2017,Overweight: Not overweight or obese,Male,33
+S92000003,2017,Overweight: Overweight (including obese),All,65
+S92000003,2017,Overweight: Overweight (including obese),Female,63
+S92000003,2017,Overweight: Overweight (including obese),Male,67
+S92000003,2017,Summary activity levels: Low activity,All,4
+S92000003,2017,Summary activity levels: Low activity,Female,5
+S92000003,2017,Summary activity levels: Low activity,Male,3
+S92000003,2017,Summary activity levels: Meets recommendations,All,65
+S92000003,2017,Summary activity levels: Meets recommendations,Female,60
+S92000003,2017,Summary activity levels: Meets recommendations,Male,71
+S92000003,2017,Summary activity levels: Some activity,All,11
+S92000003,2017,Summary activity levels: Some activity,Female,12
+S92000003,2017,Summary activity levels: Some activity,Male,9
+S92000003,2017,Summary activity levels: Very low activity,All,20
+S92000003,2017,Summary activity levels: Very low activity,Female,23
+S92000003,2017,Summary activity levels: Very low activity,Male,17
+S92000003,2018,Any cardiovascular condition: Has a cardiovascular condition,All,16
+S92000003,2018,Any cardiovascular condition: Has a cardiovascular condition,Female,16
+S92000003,2018,Any cardiovascular condition: Has a cardiovascular condition,Male,16
+S92000003,2018,Any cardiovascular condition: No cardiovascular condition,All,84
+S92000003,2018,Any cardiovascular condition: No cardiovascular condition,Female,84
+S92000003,2018,Any cardiovascular condition: No cardiovascular condition,Male,84
+S92000003,2018,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,35
+S92000003,2018,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,36
+S92000003,2018,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,34
+S92000003,2018,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,35
+S92000003,2018,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,34
+S92000003,2018,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,36
+S92000003,2018,Life satisfaction: Mode (8),All,30
+S92000003,2018,Life satisfaction: Mode (8),Female,31
+S92000003,2018,Life satisfaction: Mode (8),Male,30
+S92000003,2018,Obesity: Not obese,All,72
+S92000003,2018,Obesity: Not obese,Female,70
+S92000003,2018,Obesity: Not obese,Male,73
+S92000003,2018,Obesity: Obese,All,28
+S92000003,2018,Obesity: Obese,Female,30
+S92000003,2018,Obesity: Obese,Male,27
+S92000003,2018,Overweight: Not overweight or obese,All,35
+S92000003,2018,Overweight: Not overweight or obese,Female,37
+S92000003,2018,Overweight: Not overweight or obese,Male,32
+S92000003,2018,Overweight: Overweight (including obese),All,65
+S92000003,2018,Overweight: Overweight (including obese),Female,63
+S92000003,2018,Overweight: Overweight (including obese),Male,68
+S92000003,2018,Summary activity levels: Low activity,All,4
+S92000003,2018,Summary activity levels: Low activity,Female,4
+S92000003,2018,Summary activity levels: Low activity,Male,3
+S92000003,2018,Summary activity levels: Meets recommendations,All,66
+S92000003,2018,Summary activity levels: Meets recommendations,Female,62
+S92000003,2018,Summary activity levels: Meets recommendations,Male,70
+S92000003,2018,Summary activity levels: Some activity,All,10
+S92000003,2018,Summary activity levels: Some activity,Female,12
+S92000003,2018,Summary activity levels: Some activity,Male,8
+S92000003,2018,Summary activity levels: Very low activity,All,21
+S92000003,2018,Summary activity levels: Very low activity,Female,22
+S92000003,2018,Summary activity levels: Very low activity,Male,19
+S92000003,2019,Any cardiovascular condition: Has a cardiovascular condition,All,15
+S92000003,2019,Any cardiovascular condition: Has a cardiovascular condition,Female,14
+S92000003,2019,Any cardiovascular condition: Has a cardiovascular condition,Male,17
+S92000003,2019,Any cardiovascular condition: No cardiovascular condition,All,85
+S92000003,2019,Any cardiovascular condition: No cardiovascular condition,Female,86
+S92000003,2019,Any cardiovascular condition: No cardiovascular condition,Male,83
+S92000003,2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),All,36
+S92000003,2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Female,35
+S92000003,2019,Life satisfaction: Above the mode (9 to 10-Extremely satisfied),Male,36
+S92000003,2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),All,35
+S92000003,2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Female,35
+S92000003,2019,Life satisfaction: Below the mode (0-Extremely dissatisfied to 7),Male,34
+S92000003,2019,Life satisfaction: Mode (8),All,30
+S92000003,2019,Life satisfaction: Mode (8),Female,29
+S92000003,2019,Life satisfaction: Mode (8),Male,30
+S92000003,2019,Obesity: Not obese,All,71
+S92000003,2019,Obesity: Not obese,Female,70
+S92000003,2019,Obesity: Not obese,Male,71
+S92000003,2019,Obesity: Obese,All,29
+S92000003,2019,Obesity: Obese,Female,30
+S92000003,2019,Obesity: Obese,Male,29
+S92000003,2019,Overweight: Not overweight or obese,All,34
+S92000003,2019,Overweight: Not overweight or obese,Female,37
+S92000003,2019,Overweight: Not overweight or obese,Male,31
+S92000003,2019,Overweight: Overweight (including obese),All,66
+S92000003,2019,Overweight: Overweight (including obese),Female,63
+S92000003,2019,Overweight: Overweight (including obese),Male,69
+S92000003,2019,Summary activity levels: Low activity,All,3
+S92000003,2019,Summary activity levels: Low activity,Female,4
+S92000003,2019,Summary activity levels: Low activity,Male,3
+S92000003,2019,Summary activity levels: Meets recommendations,All,66
+S92000003,2019,Summary activity levels: Meets recommendations,Female,61
+S92000003,2019,Summary activity levels: Meets recommendations,Male,71
+S92000003,2019,Summary activity levels: Some activity,All,11
+S92000003,2019,Summary activity levels: Some activity,Female,12
+S92000003,2019,Summary activity levels: Some activity,Male,9
+S92000003,2019,Summary activity levels: Very low activity,All,20
+S92000003,2019,Summary activity levels: Very low activity,Female,23
+S92000003,2019,Summary activity levels: Very low activity,Male,18

@@ -4,7 +4,7 @@ This repo contains my R Shiny app projects.
 
 ## Group Health Project
 
-R Shiny app developed as a group project undertaken over 5 days as part of CodeClan coursework. Deliverables over that time were the R Shiny App, project documentation and final presentation.
+R Shiny app developed as a group project undertaken over 6 days as part of CodeClan coursework. Deliverables over that time were the R Shiny App, project documentation and final presentation.
 
 The project brief was to create an app for Public Health Scotland, with the aim of improving public health in Scotland and reducing inequalities.
 

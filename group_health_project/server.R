@@ -18,8 +18,8 @@ server <- function(input, output) {
                    scottish_health_survey_indicator == input$indicator_input) %>%
             ggplot() +
             aes(x = year, y = percentage, colour = sex) +
-            geom_line() +
-            geom_point() +
+            geom_line(size = 2) +
+            geom_point(size = 3) +
             scale_x_continuous(breaks = 2008:2019) +
             expand_limits(y = c(1, 100)) +
         theme_economist() +
@@ -33,10 +33,10 @@ server <- function(input, output) {
              colour = "",
              title = "Scottish Health Survey - Scotland level data\n",
              subtitle = "Trends from 2008 to 2019 for the key Health Indicators") +
-        scale_colour_manual(values = c("All" = "black", "Male" = "#2E45B8", "Female" = "#C91D42"))
+        scale_colour_manual(values = c("All" = "black", "Male" = "#1A476F", "Female" = "#90353B"))
 
     },
-    height = 400, width = 1300)
+    height = 400, width = 1000)
     
     # Area Level Survey Visualisation
     output$localPlot <- renderPlot({
@@ -64,12 +64,12 @@ server <- function(input, output) {
                  fill = "",
                  title = "Scottish Health Survey - Local area level data\n",
                  subtitle = "Local authority comparison against National average for the key Health Indicators for 2016 - 2019") +
-        scale_fill_manual(values = c("Above Scotland" = "#F6423C", "Below Scotland" = "#1DC9A4", "Scotland" = "#141F52"))
+        scale_fill_manual(values = c("Above Scotland" = "#F15A40", "Below Scotland" = "#008A84", "Scotland" = "#00A4DC"))
                 
 
 
     },
-    height = 400, width = 1300)
+    height = 400, width = 1000)
   
       
       #Green space Geospatial Graph
@@ -79,7 +79,7 @@ server <- function(input, output) {
             distance_to_nearest_green_or_blue_space == "A 5 minute walk or less") %>% 
           ggplot() +
           geom_sf(aes(fill = mean_percent), colour = "black") +
-          scale_fill_brewer(palette = "YlGn") +
+          scale_fill_economist() +
           theme_economist() +
           theme(axis.text.x = element_text(face = "bold", size = 10),
                 axis.text.y = element_text(face = "bold", size = 10),
@@ -101,6 +101,7 @@ server <- function(input, output) {
                                             sex == "All" | is.na(sex)) %>% 
           ggplot() +
           geom_sf(aes(fill = percentage), colour = "black") +
+          scale_fill_viridis_c(option="E") +
           theme_economist() +
           theme(axis.text.x = element_text(face = "bold", size = 10),
                 axis.text.y = element_text(face = "bold", size = 10),
@@ -210,9 +211,9 @@ server <- function(input, output) {
                 legend.position = "none") +
           expand_limits(y = c(1,100)) +
           geom_text(aes(label = years_to_live), vjust = -0.5) +
-          scale_fill_manual(values = c("Male" = "#2E45B8", "Female" = "#C91D42"))
+          scale_fill_manual(values = c("Male" = "#1A476F", "Female" = "#90353B"))
       },
-      height = 400, width = 1300)
+      height = 400, width = 1000)
       
       # bar graph of male life expectancy, with age on the x axis, years to live on y axis
       output$gender_plot <- renderPlot({
@@ -239,10 +240,10 @@ server <- function(input, output) {
                 title = element_text(size = 14, face = "bold"),
                 legend.text = element_text(face = "bold")) +
           expand_limits(y = c(1,100)) +
-          scale_fill_manual(values = c("Male" = "#2E45B8", "Female" = "#C91D42"))
+          scale_fill_manual(values = c("Male" = "#1A476F", "Female" = "#90353B"))
         
       },
-      height = 400, width = 1300)
+      height = 400, width = 1000)
       
 }
 

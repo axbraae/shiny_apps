@@ -48,8 +48,8 @@ server <- function(input, output) {
             ggplot() +
             aes(x= ca_name, y = percentage, fill = case_when(
                 ca_name == "Scotland" ~ "Scotland",
-                percentage < scotland_percent ~ "Below Scotland",
-                percentage > scotland_percent ~ "Above Scotland"
+                percentage < scotland_percent ~ "Below Scottish Percentage",
+                percentage > scotland_percent ~ "Above Scottish Percentage"
                 )) +
             geom_col() +
             theme_economist() +
@@ -64,7 +64,7 @@ server <- function(input, output) {
                  fill = "",
                  title = "Scottish Health Survey - Local area level data\n",
                  subtitle = "Local authority comparison against National average for the key Health Indicators for 2016 - 2019") +
-        scale_fill_manual(values = c("Above Scotland" = "#F15A40", "Below Scotland" = "#008A84", "Scotland" = "#00A4DC"))
+        scale_fill_manual(values = c("Above Scottish Percentage" = "#a93f2d", "Below Scottish Percentage" = "#008A84", "Scotland" = "#0570A4"))
                 
 
 
@@ -79,7 +79,10 @@ server <- function(input, output) {
             distance_to_nearest_green_or_blue_space == "A 5 minute walk or less") %>% 
           ggplot() +
           geom_sf(aes(fill = mean_percent), colour = "black") +
-          scale_fill_economist() +
+          scale_colour_steps(low = "#FAE5C6",
+                                high = "#314607", 
+                                space = "Lab",
+                                aesthetics = "fill") +
           theme_economist() +
           theme(axis.text.x = element_text(face = "bold", size = 10),
                 axis.text.y = element_text(face = "bold", size = 10),
@@ -101,7 +104,10 @@ server <- function(input, output) {
                                             sex == "All" | is.na(sex)) %>% 
           ggplot() +
           geom_sf(aes(fill = percentage), colour = "black") +
-          scale_fill_viridis_c(option="E") +
+          scale_colour_steps(low = "#FAE5c6",
+                                high = "#F15A40", 
+                                space = "Lab",
+                                aesthetics = "fill") +
           theme_economist() +
           theme(axis.text.x = element_text(face = "bold", size = 10),
                 axis.text.y = element_text(face = "bold", size = 10),

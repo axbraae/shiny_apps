@@ -4,9 +4,9 @@ library(shiny)
 library(classInt)
 
 #figure out a way to do better breaks for the map to turn it into a choropleth
-breaks_greenspace <- classIntervals(c(min(greenspace$value_percent) - 0.00001,
-                                      greenspace$value_percent),
-                                    n = 15, style = "quantile")
+#breaks_greenspace <- classIntervals(c(min(greenspace$value_percent) - 0.00001,
+                                     # greenspace$value_percent),
+                                    #n = 15, style = "quantile")
 
 greenspace_la <- greenspace %>%
   filter(
@@ -22,8 +22,8 @@ greenspace_la <- greenspace %>%
   group_by(
     area_code, ca_name, age, distance_to_nearest_green_or_blue_space
   ) %>%
-  summarise(mean_percent = mean(value_percent)) %>% 
-  mutate(mean_percent = cut(mean_percent, breaks_greenspace$brks))
+  summarise(mean_percent = mean(value_percent)) #%>% 
+  #mutate(mean_percent = cut(mean_percent, breaks_greenspace$brks))
 
 #read in spatial local authority data and simplify to 1km
 la_zones <- st_read(here::here("data/raw_data/Local_Authority_Boundaries_-_Scotland/pub_las.shp")) %>%

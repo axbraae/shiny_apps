@@ -8,6 +8,31 @@ library(shiny)
 # Define UI for health application
 shinyUI(navbarPage("Scottish Public Health",
           theme = shinytheme("flatly"), 
+          tabPanel("Access to Greenspace and Health",
+                   fluidRow(
+                     column(12, 
+                            p("A priority for Public Health Scotland 
+                                      is to achieve a Scotland where we eat well,
+                                      have a healthy weight and are physically active.")
+                            ),
+                     br(),
+                     column(12,
+                            p("This dashboard provides information on key 
+                                      health indicators for life expectancy, 
+                                      cardiovascular conditions, obesity, activity levels 
+                                      and distance to a greenspace or park. These metrics 
+                              are accessed in snapshot and over time by
+                              demography, location and deprivation level.")
+                            ),
+                     br(),
+                     column(12,
+                            p("Data were sourced from:"),
+                            tags$a(href="https://statistics.gov.scot/", "statistics.gov.scot")),
+                     column(12,
+                            tags$a(href="https://data.spatialhub.scot/dataset/local_authority_boundaries-is",
+                                   "data.spatialhub.scot")
+                            )
+                     )),
           tabPanel("Scottish Health Survey Overview",
           fluidRow(
             column(3, selectInput("gender_input",
@@ -136,7 +161,7 @@ shinyUI(navbarPage("Scottish Public Health",
                    fluidPage(
                           tags$text("The Scottish Index of Multiple Deprivation is a relative measure of deprivation across 6,976 small areas (called data zones). If an area is identified as ‘deprived’, this can relate to people having a low income but it can also mean fewer resources or opportunities. SIMD looks at the extent to which an area is deprived across seven domains: income, employment, education, health, access to services, crime and housing.
 SIMD is an area-based measure of relative deprivation: not every person in a highly deprived area will themselves be experiencing high levels of deprivation."),
-                           titlePanel(tags$h1("Life Expectancy at Birth")),
+                           titlePanel(tags$h2("Life Expectancy at Birth")),
                            fluidRow(
                                    column(3,
                                           selectInput("simd_quintiles",
@@ -154,9 +179,16 @@ SIMD is an area-based measure of relative deprivation: not every person in a hig
                                           plotOutput("gender_plot"))
                            )
                    )
+                   ),
 
-                   )
-
-
+tabPanel("Insights",
+         fluidRow(
+           column(12,
+                  tags$ul(
+                    tags$li("Many health indicators remain stable in recent years, despite government efforts."),
+                    tags$li("Convenient access to green space does not necessarily translate to good physical health."),
+                    tags$li("Neighbourhood deprivation (SIMD) has a material impact on life expectancy, both at birth and throughout life.")
+                  ))
+         ))
 )
 )

@@ -11,7 +11,7 @@ library(classInt)
 
 
 # read in survey data
-scottish_survey <- read.csv(here("data/clean_data/scotland_health_survey_clean.csv"))
+scottish_survey <- read_csv(here("data/clean_data/scotland_health_survey_clean.csv"))
 scottish_survey_local <- read_csv(here("data/clean_data/scotland_health_survey_local_clean.csv"))
 scottish_survey_local_stats <- read_csv(here("data/clean_data/summary_stat_scotland_health_2016_2019.csv"))
 greenspace <- read_csv(here("data/clean_data/greenspace_council_names.csv"))

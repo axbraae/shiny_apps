@@ -17,6 +17,8 @@ Data were sourced from [statistics.gov.scot](https://statistics.gov.scot/home) a
 
 I was responsible for initial app layout, data sourcing, geospatial and statistical analysis.
 
+![green space tab](/group_health_project/documentation/screen_shots/access_to_greenspace.png)
+
 ## LFB Animal Rescue
 
 R Shiny app currently in development. This is a personal project looking at animal rescues undertaken by the London Fire Brigade. The aim of the project is to determine animal rescues over time and location.

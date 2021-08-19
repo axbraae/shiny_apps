@@ -2,6 +2,9 @@
 
 This repo contains my R Shiny app projects.
 
+* [Group Health Project](#group-health-project)
+* [London Fire Brigade Animal Rescue](#lfb-animal-rescue)
+
 ## Group Health Project
 
 R Shiny dashboard application developed as a group project undertaken over 6 days as part of CodeClan coursework. Deliverables over that time were the R Shiny app, project documentation and final presentation.

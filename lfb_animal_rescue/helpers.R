@@ -21,7 +21,8 @@ unknown_str <- c("Unknown - animal rescue from below ground - farm animal",
 #recode mistyped animals, regroup animal classifications
 lfb_animals <- lfb_animals %>% 
 mutate(animal = str_to_sentence(animal_group_parent),
-       animal = str_replace(animal, "Budgie", "Bird"))
+       animal = str_replace(animal, "Budgie", "Bird"),
+       animal = str_replace(animal, "^Unknown -*", "Unknown"))
 
 
 
